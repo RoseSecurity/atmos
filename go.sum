@@ -553,6 +553,8 @@ github.com/kylelemons/godebug v1.1.0 h1:RPNrshWIDI6G2gRW9EHilWtl7Z6Sb1BR0xunSBf0
 github.com/kylelemons/godebug v1.1.0/go.mod h1:9/0rRGxNHcop5bhtWyNeEfOS8JIWk580+fNqagV/RAw=
 github.com/lrstanley/bubblezone v0.0.0-20240125042004-b7bafc493195 h1:zcxmFnwisGZSaEzgvkOrs4belfcRlKyIUfa3sOQSttQ=
 github.com/lrstanley/bubblezone v0.0.0-20240125042004-b7bafc493195/go.mod h1:v5lEwWaguF1o2MW/ucO0ZIA/IZymdBYJJ+2cMRLE7LU=
+github.com/lrstanley/bubblezone v0.0.0-20240602193536-d14e6b69d7f9 h1:LHU+iKAPCi7vJh19V0LPQ3ZfwHP/+wWW+dmpqXYCGJg=
+github.com/lrstanley/bubblezone v0.0.0-20240602193536-d14e6b69d7f9/go.mod h1:v5lEwWaguF1o2MW/ucO0ZIA/IZymdBYJJ+2cMRLE7LU=
 github.com/lucasb-eyer/go-colorful v1.2.0 h1:1nnpGOrhyZZuNyfu1QjKiUICQ74+3FNCN69Aj6K7nkY=
 github.com/lucasb-eyer/go-colorful v1.2.0/go.mod h1:R4dSotOR9KMtayYi1e77YzuveK+i7ruzyGqttikkLy0=
 github.com/magiconair/properties v1.8.7 h1:IeQXZAiQcpL9mgcAe1Nu6cX9LLw6ExEHKjN0VQdvPDY=

@@ -24,7 +24,7 @@ require (
 	github.com/ivanpirog/coloredcobra v1.0.1
 	github.com/json-iterator/go v1.1.12
 	github.com/jwalton/go-supportscolor v1.2.0
-	github.com/lrstanley/bubblezone v0.0.0-20240125042004-b7bafc493195
+	github.com/lrstanley/bubblezone v0.0.0-20240602193536-d14e6b69d7f9
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/mitchellh/mapstructure v1.5.0
 	github.com/open-policy-agent/opa v0.63.0
